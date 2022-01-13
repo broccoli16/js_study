@@ -62,3 +62,17 @@
 // });
 // console.log(trueHanya);
 //三項演算子 条件 ? 真の処理 : 偽の処理
+//const age = 1 < 0 ? console.log(0) : console.log(1);
+//console.log(age);
+
+//const num = 1300;
+//console.log(num.toLocaleString());
+
+//const fmNum = typeof num === "number" ? num.toLocaleString() : "数値を入力して";
+//console.log(fmNum);
+
+// const checkSum = (num1,num2) => {
+//  return num1 + num2 > 100 ? "100を超えている":"100以下";
+// }
+// console.log(checkSum(50,40));
+// console.log(checkSum(50,70));
