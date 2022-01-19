@@ -76,3 +76,21 @@
 // }
 // console.log(checkSum(50,40));
 // console.log(checkSum(50,70));
+
+//論理演算子
+// const f1 = true;
+// const f2 = false;
+
+// if(f1 || f2){
+//   console.log("trueがあるよ");
+// }
+// else {
+//   console.log("aaa");
+// }
+
+// const f = false;
+
+// const mes = f || "表示内容";
+// console.log(mes);
+// ||は左側がfalseなら右を返す
+// &&は左側がtrueなら右を返す
